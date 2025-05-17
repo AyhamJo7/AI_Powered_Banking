@@ -1,0 +1,85 @@
+{
+  "users": {
+    "9999": {
+      "username": "test_user",
+      "face_data": "test_face_data",
+      "typing_pattern": "test_typing_pattern",
+      "email": "test@example.com",
+      "phone": "+1234567890",
+      "balance": 1000.0,
+      "password_hash_b64": "ZmFrZV9oYXNo",
+      "password_salt_b64": "ZmFrZV9zYWx0"
+    }
+  },
+  "stored_face": {
+    "9999": "test_face_data"
+  },
+  "stored_typing_pattern": {
+    "9999": "test_typing_pattern"
+  },
+  "trusted_devices": {
+    "9999": [
+      "Test Device"
+    ]
+  },
+  "historical_logins": {
+    "9999": [
+      {
+        "timestamp": "2025-05-16T16:48:02.632252",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      },
+      {
+        "timestamp": "2025-05-16T16:48:02.638473",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      },
+      {
+        "timestamp": "2025-05-16T16:48:02.644544",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      },
+      {
+        "timestamp": "2025-05-16T16:48:02.651759",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      },
+      {
+        "timestamp": "2025-05-17T14:33:00.304340",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      },
+      {
+        "timestamp": "2025-05-17T14:33:00.311553",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      },
+      {
+        "timestamp": "2025-05-17T14:33:00.320836",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      },
+      {
+        "timestamp": "2025-05-17T14:33:00.327654",
+        "device_info": "Test Device",
+        "location": "48.8566,2.3522",
+        "ip_address": "192.168.1.1",
+        "success": true
+      }
+    ]
+  }
+}

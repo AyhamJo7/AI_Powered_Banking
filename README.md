@@ -64,7 +64,7 @@ Banking/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/banking-system.git
+   git clone https://github.com/AyhamJo7/AI_Powered_Banking.git
    cd banking-system
    ```
 
